@@ -1,0 +1,32 @@
+.left-side{
+  padding-left:5px;
+  padding-right:5px;
+  vertical-align: top;
+}
+.left-side h2 {
+  background-color: #ccc;
+  padding:15px;
+}
+.left-side ul {
+  list-style:square;
+  padding:15px
+}
+.right-side {
+background-color: #58A6E5;
+width:270;
+color: white;
+font-family: Arial ,serif;
+padding:5px;
+
+}
+.divider{
+  background-color:#4485b9;
+  height:5px;
+  width:90%;
+  margin:15px
+}
+.avatar img{
+margin:0 auto;
+display:block;
+border-radius:50%;
+}
